@@ -7,3 +7,6 @@ https://drive.google.com/drive/u/1/folders/1JjqMSj-H0Hiiy6B-tGdspfiEZSLqomj8
 
 ## The process of training this transfer learning model
 https://colab.research.google.com/drive/1ed87N0lqceAMm-R9Q8TYKj1yyB52bZUN?authuser=1
+
+## What's the result of this program? Check the video:
+https://drive.google.com/drive/u/1/folders/1kretOz-wLspEVw_AwZt4iVObazqjur5Z
