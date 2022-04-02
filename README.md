@@ -1,5 +1,5 @@
 # TranString
-A real-time program for electric guitar techniques detection using transfer learning model
+A real-time application for electric guitar techniques detection using transfer learning model
 
 ## To acquire state_dict
 due to the size limitation of github, please access the follow link to get the model for this program:
